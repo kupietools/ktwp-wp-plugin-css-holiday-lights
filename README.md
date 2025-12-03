@@ -4,6 +4,8 @@ A WordPress plugin to display a string of pure CSS interactive holiday lights ac
 
 Usage: Just upload this repo as a folder to your WordPress plugin directory and activate it from your plugins Admin screen. That's all. 
 
+See https://michaelkupietz.com/?p=12640 for technical details.
+
 https://github.com/user-attachments/assets/5fc8a9bd-816e-4e34-933d-c0719eaeba8e
 
-See https://michaelkupietz.com/?p=12640 for technical details.
+
