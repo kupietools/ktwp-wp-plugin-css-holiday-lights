@@ -25,7 +25,7 @@ function ktwp_css_holiday_lights_enqueue_css() {
 add_action('wp_enqueue_scripts', 'ktwp_css_holiday_lights_enqueue_css');
 
 function ktwp_css_holiday_lights_enqueue_assets() {
-    wp_enqueue_script('ktwp_css_holiday_lights-script', plugins_url('js/script.js', __FILE__), array('jquery'), '1.0', true);
+    wp_enqueue_script('ktwp_css_holiday_lights-script', plugins_url('js/script.js', __FILE__), array('jquery'), '1.0',  array('in_footer' => true,'strategy'  => 'defer') );
 }
 
 add_action('wp_enqueue_scripts', 'ktwp_css_holiday_lights_enqueue_assets');
