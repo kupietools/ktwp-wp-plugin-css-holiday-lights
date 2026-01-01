@@ -115,4 +115,4 @@ add_action('wp_footer', 'lightrope_fallback_check');
 
    This could be made even more efficient by storing the lightrope HTML in a variable so you don't 
    have to specify it twice, but I'm just trying to crank this out right now. 
-*/
+*/ 
