@@ -19,7 +19,7 @@ However, I'd like it if you would leave it in.
 */
 
 // Prevent direct access
-if (!defined('ABSPATH')) {
+if (!defined('ABSPATH')) { 
     exit;
 }
 
