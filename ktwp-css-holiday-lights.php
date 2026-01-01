@@ -10,6 +10,7 @@ Plugin URI: https://michaelkupietz.com/?p=12640
 Codepen demo: https://codepen.io/kupietz/pen/dPbNywN
 
 TO THE USER INSTALLING THIS PLUGIN: 
+
 In the /js/script.js file, the constant "htmlToInsert", which creates the HTML used to create the 
 lights, contains an HTML comment crediting the author by name and URL, visible if anyone looks at
 your site's underlying HTML code in their browser's Inspector. As I'm aware some WP performance 
